@@ -3,8 +3,6 @@ import psycopg2
 import pandas as pd
 from sqlalchemy import create_engine
 
-
-
 def load_data(filename):
     # read the csv file
     df = pd.read_csv(filename, on_bad_lines='skip', delimiter=';', quotechar='"')
@@ -26,7 +24,7 @@ def load_data(filename):
     df.to_sql(name=file, con=engine, if_exists='append', index=False)
     
 # data source
-directory = "data"
+directory = "/data"
 
 # loading the data
 for filename in os.listdir(directory):
