@@ -12,20 +12,20 @@ The ETL code is in `main.py`
 
 the analysis followed predetermined question in the `project questions.pdf` file, and below are the images to the queries.
 ## question 1
-![question 1](img\question 1.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%201.jpg)
 ## question 2
-![question 1](img\question 2.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%202.jpg)
 ## question 3
-![question 1](img\question 3.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%203.jpg)
 ## question 4
-![question 1](img\question 4.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%204.jpg)
 ## question 5
-![question 1](img\question 5.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%205.jpg)
 ## question 6
-![question 1](img\question 6.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%206.jpg)
 ## question 7
-![question 1](img\question 7.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%207.jpg)
 ## question 8
-![question 1](img\question 8.jpg)
+![question 1](https://github.com/Nazzcodek/movies/blob/main/img/question%208.jpg)
 
 The codes to these questions can be found in the `query.sql` file
